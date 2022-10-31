@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello from Atlanta
+
+I'm TJ. I design & build digital interfaces.
 
 <!--
 **tjkohli/tjkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
