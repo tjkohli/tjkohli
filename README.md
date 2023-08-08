@@ -1,4 +1,4 @@
-# Hello from Atlanta
+# Hello from Atlanta 👋🏼
 
 I'm TJ. I design & build digital interfaces.
 
